@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Specific to extrapolate app
+figures/
+synthetic_data_report.txt
+Iowa_Liquor_Sales_Synthetic_Jun2025.csv
+
